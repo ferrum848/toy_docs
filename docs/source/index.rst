@@ -1,16 +1,25 @@
 Cats, Dogs, Cows
 ================
 
-      Welcome to the Cats, Dogs, Cows
+   .. raw:: html
 
-	<div style="display:inline-block;">
+    <table style="width:100%;">
+
+      <tr>
+        <td>
+          <div style="display:inline-block;">
             <h2>API</h2>
           </div>
           <ul>
           <li><a href="sdk_packages.html">Python SDK API Reference</a></li>
           <li><a href="https://api.docs.supervise.ly/">Public REST API Reference</a></li>
          </ul>
+        </td>
+      </tr>
 
+
+
+    </table>
 
 
 .. toctree::
