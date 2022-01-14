@@ -2,4 +2,5 @@ furo
 sphinx-copybutton
 m2r2
 nbsphinx
+supervisely
 
