@@ -22,9 +22,9 @@ sys.path.insert(0, os.path.abspath('./toy_code'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Supervisely SDK for Python'
-copyright = '2021, Supervisely Team'
-author = 'Supervisely Team'
+#project = 'Supervisely SDK for Python'
+#copyright = '2021, Supervisely Team'
+#author = 'Supervisely Team'
 
 # -- General configuration ---------------------------------------------------
 
