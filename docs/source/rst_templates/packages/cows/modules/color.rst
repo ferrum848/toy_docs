@@ -1,7 +1,9 @@
-Import Utilities
-----------------
+Color
+-----
 
-.. automodule:: supervisely_lib.video.import_utils
+.. automodule:: toy_code.cows.color
    :members:
    :undoc-members:
    :show-inheritance:
+   :special-members:
+

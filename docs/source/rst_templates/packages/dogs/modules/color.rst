@@ -1,7 +1,9 @@
-User
-----
+Color
+-----
 
-.. automodule:: supervisely_lib.user.user
+.. automodule:: toy_code.dogs.color
    :members:
    :undoc-members:
    :show-inheritance:
+   :special-members:
+

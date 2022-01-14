@@ -1,8 +1,7 @@
-Video
------
+Name
+----
 
-.. automodule:: supervisely_lib.video.video
+.. automodule:: toy_code.cows.name
    :members:
    :undoc-members:
    :show-inheritance:
-   :exclude-members: VideoExtensionError, UnsupportedVideoFormat, VideoReadException

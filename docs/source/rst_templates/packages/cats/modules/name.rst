@@ -1,7 +1,7 @@
-supervisely\_lib.annotation.annotation\_transforms
---------------------------------------------------
+Name
+----
 
-.. automodule:: supervisely_lib.annotation.annotation_transforms
+.. automodule:: toy_code.cats.name
    :members:
    :undoc-members:
    :show-inheritance:
