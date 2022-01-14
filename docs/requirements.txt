@@ -3,4 +3,4 @@ sphinx-copybutton
 m2r2
 nbsphinx
 supervisely
-
+libgl1
