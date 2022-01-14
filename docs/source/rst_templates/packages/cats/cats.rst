@@ -2,14 +2,26 @@ Cats
 ====
 
 **Cats**
-- Working with labeling data of individual images. Annotation is the class that wraps all the labeling data for a given image: its Labels (geometrical objects) and Tags.
+- text about cats
 
-Modules
--------
+Colors module
+-------------
+
+  text about cats colors
 
 .. toctree::
    :maxdepth: 1
 
    Color                  <modules/color>
+
+
+Names module
+------------
+
+  text about cats names
+
+.. toctree::
+   :maxdepth: 1
+
    Name                   <modules/name>
 

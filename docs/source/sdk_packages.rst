@@ -1,9 +1,9 @@
-Python SDK API Reference
-========================
+Pets categories
+===============
 
 .. toctree::
    :maxdepth: 1
-   :caption: Packages
+   :caption: Pets types
 
    Cats                    <rst_templates/packages/cats/cats>
    Dogs                    <rst_templates/packages/dogs/dogs>
