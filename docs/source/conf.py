@@ -34,7 +34,10 @@ author = 'Supervisely Team'
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
-    'sphinx.ext.viewcode'
+    'sphinx.ext.viewcode',
+    'sphinx_copybutton',
+    'm2r2',
+    'nbsphinx'
 ]
 
 jupyter_generate_html = True
