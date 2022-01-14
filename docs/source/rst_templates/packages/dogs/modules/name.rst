@@ -1,7 +1,7 @@
-Font
+User
 ----
 
-.. automodule:: supervisely_lib.imaging.font
+.. automodule:: supervisely_lib.user.user
    :members:
    :undoc-members:
    :show-inheritance:

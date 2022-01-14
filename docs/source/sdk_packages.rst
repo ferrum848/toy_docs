@@ -5,10 +5,7 @@ Python SDK API Reference
    :maxdepth: 1
    :caption: Packages
 
-   Annotation                    <rst_templates/packages/annotation/annotation>
-   Geometry                      <rst_templates/packages/geometry/geometry>
-   Imaging                       <rst_templates/packages/imaging/imaging>
-   Project                       <rst_templates/packages/project/project>
-   User                          <rst_templates/packages/user/user>
-   Video                         <rst_templates/packages/video/video>
+   Cats                    <rst_templates/packages/cats/cats>
+   Dogs                    <rst_templates/packages/dogs/dogs>
+   Cows                     <rst_templates/packages/cows/cows>
 
