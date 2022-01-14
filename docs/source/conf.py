@@ -25,7 +25,6 @@ project = 'Supervisely SDK for Python'
 copyright = '2021, Supervisely Team'
 author = 'Supervisely Team'
 
-
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
