@@ -12,6 +12,7 @@ Cats, Dogs, Cows
           </div>
           <ul>
           <li><a href="sdk_packages.html">Link to pets</a></li>
+          <li><a href="https://api.docs.supervise.ly/">Public REST API Reference</a></li>
          </ul>
         </td>
       </tr>
@@ -26,4 +27,5 @@ Cats, Dogs, Cows
    :hidden:
 
    sdk_packages
+   Public REST API              <https://api.docs.supervise.ly/>
 
