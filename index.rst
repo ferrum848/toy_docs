@@ -26,6 +26,6 @@ Cats, Dogs, Cows
    :caption: Start
    :hidden:
 
-   sdk_packages
+   <toy_code/source/sdk_packages>
    Public REST API              <https://api.docs.supervise.ly/>
 
